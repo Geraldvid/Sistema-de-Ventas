@@ -1,0 +1,30 @@
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Acceso.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Articulos.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Categorias.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Clientes.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Compras.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Principal.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Proveedores.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Roles.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Usuario.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Ventas.resources
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\bin\Debug\Datos.dll
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\bin\Debug\Entidades.dll
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\bin\Debug\Negocios.dll
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\bin\Debug\Datos.pdb
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\bin\Debug\Entidades.pdb
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\bin\Debug\Negocios.pdb
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CopyComplete
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
+C:\Users\User\Documents\Universidad Material\IV CUATRIMESTRE\PROGRA III\Proyecto_Final\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+C:\Users\User\Documents\Universidad Material\IV CUATRIMESTRE\PROGRA III\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+C:\Users\User\Documents\Universidad Material\IV CUATRIMESTRE\PROGRA III\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb

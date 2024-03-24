@@ -1,0 +1,6 @@
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Datos\bin\Debug\Datos.dll
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Datos\bin\Debug\Datos.pdb
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Datos\obj\Debug\Datos.dll
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Datos\obj\Debug\Datos.pdb

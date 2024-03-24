@@ -1,0 +1,11 @@
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\bin\Debug\Negocios.dll
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\bin\Debug\Negocios.pdb
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\bin\Debug\Datos.dll
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\bin\Debug\Entidades.dll
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\bin\Debug\Datos.pdb
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\bin\Debug\Entidades.pdb
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\obj\Debug\Negocios.dll
+C:\Users\kimbe\OneDrive\Ingenieria de Sistemas\V Q 03-2022\PROGRAMACIÓN IV\Proyecto_Final\Negocios\obj\Debug\Negocios.pdb
